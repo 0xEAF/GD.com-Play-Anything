@@ -54,3 +54,11 @@ Currently it is impossible for me to publish the extension to the Opera Add-Ons 
   4. Give those to the extension by opening its popup (by clicking on its icon)
   5. Click "Inject"
   6. Have fun
+
+## How does it work
+
+Instead of doing like [most people apparently were going to do](https://x.com/TheRealGDColon/status/2040254875800367107) I smartly decided to make a Chrome extension that simply edits the content of the requests containing the level and song data, that's literally it.
+
+## Bugs
+
+May be a lot of it, personally I had one at some point where the audio would not change but idk it's just a proof of concept, not anything serious
