@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inject GD Level</title>
+    <style>
+        body {
+            background: 
+                linear-gradient(
+                    rgba(255,255,255,0.9),
+                    rgba(255,255,255,0.8)
+                ),
+                url('icons/bg.png') no-repeat center center;
+
+            background-size: cover;
+            background-attachment: fixed;
+            font-family: Arial;
+            width: 200px;
+            padding: 10px;
+            color: black;
+        }
+
+        label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+			background-color: white;
+			border: 1px solid grey;
+			padding: 5px;
+			border-radius: 2px;
+        }
+
+        span {
+            font-size: 0.8em;
+        }
+
+        a {
+            color: black;
+        }
+
+        h2 {
+            margin: 0;
+        }
+
+        div {
+            display: flex;
+            flex-direction: row;
+        }
+		
+		input {
+			display: none;
+		}
+    </style>
+    </head>
+<body>
+    <h2>GD.com Play Anything</h2>
+    <span>Made by <a href="https://xeaf.dev/">xeaf</a></span>
+
+    <div>
+        <input type="file" id="level" accept=".txt, text/plain">
+        <label for="level">Level (.txt)</label>
+    </div>
+	<br>
+	<div>
+		<input type="file" id="song" accept=".mp3, audio/mp3">
+        <label for="song">Song (.mp3)</label>
+	</div>
+	<br>
+	<button id="play">Inject</button>
+
+    <script src="popup.js"></script>
+</body>
+</html>
