@@ -6,6 +6,8 @@ This extension allows you to play ANY 1.0* level in Geometry Dash.
 
 ## NOTE: I'm the first one to do it (I did it at 8PM on April 4th, literally a few hours after the website's release). [Heres proof](https://x.com/00xeaf/status/2040504535295152206)
 
+## [Demo / Proof of concept](https://x.com/00xeaf/status/2040504535295152206)
+
 ## Installation
 
 ### On Firefox
