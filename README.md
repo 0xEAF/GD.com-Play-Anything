@@ -33,7 +33,7 @@ However, **this may not work on some systems** (personally, Brave on Linux worke
 
 1. Open [`chrome://extensions`](chrome://extensions)
 2. Enable "Developer mode"
-3. Download the [repo as a ZIP file](https://github.com/0xEAF/NG-Music-Artwork/archive/refs/heads/main.zip)
+3. Download the [repo as a ZIP file](https://github.com/0xEAF/GD.com-Play-Anything/archive/refs/heads/main.zip)
 4. Extract the ZIP file anywhere
 6. Click "Load unpacked extension"
 7. Select the extracted folder and click OK
