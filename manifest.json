@@ -5,7 +5,6 @@
     "description": "A simple extension that allows you to play any 1.0 level on the GeometryDash.com website",
     "permissions": ["storage", "scripting", "activeTab"],
     "data_collection_permissions": {
-        "data_collection_permissions": {
         "data_types": [],
         "required": false
     },
